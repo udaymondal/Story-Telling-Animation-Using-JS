@@ -1,0 +1,17 @@
+Javascript for animations, websites, stories, data visualizations and games
+
+Now we will build (project goals). We will accomplish it in by completing each task in the project:
+
+    Create a simple animation that moves an object from one side of the screen to the other
+    
+    Sequence the first animation with a second one which plays after the first completes
+    
+    Create an animation containing natural feeling acceleration and deceleration
+    
+    Create a visual representation of abstract data
+    
+    Animate the previous visualization in a way that lets viewers experience the size and scale of the numbers presented
+    
+    Group together multiple elements to be animated together as one
+    
+    Create a simple game where animations respond to being clicked or touched 
